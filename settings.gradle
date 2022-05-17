@@ -1,8 +1,7 @@
 pluginManagement {
     repositories {
-        maven { url "https://a.repo-k1.utv.rsv.se/artifactory/maven2-remote" }
-        maven { url "https://a.repo-k1.utv.rsv.se/artifactory/gradle-remote" }
-        maven { url "https://a.repo-k1.utv.rsv.se/artifactory/jfrog-tools-remote" }
+        maven { url "https://a.repo-k1/artifactory/maven2-remote" }
+        maven { url "https://a.repo-k1/artifactory/gradle-remote" }
 	}
 }
 
