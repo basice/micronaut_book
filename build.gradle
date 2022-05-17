@@ -7,9 +7,9 @@ version = "0.1"
 group = "com.example"
 
 repositories {
-    maven { url "https://a.repo-k1.utv/artifactory/maven2-remote" }
-    maven { url "https://a.repo-k1.utv/artifactory/gradle-remote" }
-    maven { url "https://a.repo-k1.utv/artifactory/jfrog-tools-remote" }
+    maven { url "https://a.repo-k1.utv.rsv.se/artifactory/maven2-remote" }
+    maven { url "https://a.repo-k1.utv.rsv.se/artifactory/gradle-remote" }
+    maven { url "https://a.repo-k1.utv.rsv.se/artifactory/jfrog-tools-remote" }
 }
 
 dependencies {
