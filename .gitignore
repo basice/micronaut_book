@@ -12,8 +12,7 @@ out/
 .settings
 .classpath
 .factorypath
-gradle/wrapper/gradle-wrapper.jar
-gradle/wrapper/gradle-wrapper.properties
+gradle/
 node_modules/
 build.gradle
 settings.gradle
